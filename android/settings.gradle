@@ -1,0 +1,3 @@
+rootProject.name = 'meme_lords_5241'
+
+include ':app'
